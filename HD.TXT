@@ -1,0 +1,7 @@
+F05
+Le Ngoc Van Anh
+16/10/1981.
+
+679.
+# This file contains seven lines. #2 & #3, #4 & #5 exchanges based on '.'
+# One of: F01, F02, ..., F10 is the must for the first line.
